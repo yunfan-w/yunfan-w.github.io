@@ -22,4 +22,4 @@ Before joining UVA, I earned a B.Eng. in Computer Science and Technology and a B
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
+
