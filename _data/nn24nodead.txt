@@ -1,0 +1,8 @@
+@article{peng2025bipartite,
+  title={When bipartite graph learning meets anomaly detection in attributed networks: Understand abnormalities from each attribute},
+  author={Peng, Zhen and Wang, Yunfan and Lin, Qika and Dong, Bo and Shen, Chao},
+  journal={Neural Networks},
+  pages={107194},
+  year={2025},
+  publisher={Elsevier}
+}
