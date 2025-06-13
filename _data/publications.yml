@@ -6,16 +6,16 @@ main:
     conference: IEEE Transactions on Neural Networks and Learning Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025822
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: _data/TNNLS25.txt
+    bibtex: _data/tnnls25subgraph.txt
     image: ./assets/img/tnnls25subgraph.jpg
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: When bipartite graph learning meets anomaly detection in attributed networks: Understand abnormalities from each attribute
+    authors: Zhen Peng, Yunfan Wang, Qika Lin, Bo Dong, Chao Shen
+    conference_short: Neural Networks
+    conference: Neural Networks
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: Oral Presentation
     image: ./assets/img/teaser_example.png
