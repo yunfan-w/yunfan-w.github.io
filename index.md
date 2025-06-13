@@ -8,8 +8,6 @@ Hello! I'm Yunfan Wang, a Ph.D. student in the Department of Computer Science at
 
 Before joining UVA, I earned a B.Eng. in Computer Science and Technology and a B.Econ. in Economics from Xi’an Jiaotong University in 2021. I completed my M.Eng. in Computer Science and Technology at the same university in 2024.
 
-My research interests lie in the intersection of machine learning systems and graph data mining.
-
 ## Research Interests
 
 - **Machine Learning Systems:** Designing efficient and scalable infrastructure for training and deploying machine learning models.
