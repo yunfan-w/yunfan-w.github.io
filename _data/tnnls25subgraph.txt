@@ -1,10 +1,7 @@
-@ARTICLE{11025822,
+@article{peng2025end,
+  title={End-to-End Abnormal Subgraph Detection via Subgraph-Level Contrastive Learning},
   author={Peng, Zhen and Wang, Yunfan and Lin, Qika and Shi, Bin and Chen, Chen and Dong, Bo and Shen, Chao},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
-  title={End-to-End Abnormal Subgraph Detection via Subgraph-Level Contrastive Learning}, 
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
   year={2025},
-  volume={},
-  number={},
-  pages={1-15},
-  keywords={Anomaly detection;Image edge detection;Contrastive learning;Collaboration;Autoencoders;Graph neural networks;Diseases;Training;Topology;Social networking (online);Anomaly-aware graph embedding;contrastive learning;graph neural networks;subgraph anomaly detection},
-  doi={10.1109/TNNLS.2025.3573922}}
+  publisher={IEEE}
+}
