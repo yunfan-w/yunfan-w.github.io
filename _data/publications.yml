@@ -16,6 +16,6 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+    bibtex: _data/nn24nodead.txt
+    # notes: Oral Presentation
+    image: ./assets/img/nn24nodead.jpg
