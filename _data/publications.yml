@@ -6,8 +6,8 @@ main:
     conference: IEEE Transactions on Neural Networks and Learning Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025822
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+    bibtex: _data/TNNLS25.txt
+    image: ./assets/img/tnnls25subgraph.jpg
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
