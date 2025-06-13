@@ -9,7 +9,7 @@ main:
     bibtex: _data/tnnls25subgraph.txt
     image: ./assets/img/tnnls25subgraph.jpg
 
-  - title: When bipartite graph learning meets anomaly detection in attributed networks: Understand abnormalities from each attribute
+  - title: When bipartite graph learning meets anomaly detection in attributed networks Understand abnormalities from each attribute
     authors: Zhen Peng, Yunfan Wang, Qika Lin, Bo Dong, Chao Shen
     conference_short: Neural Networks
     conference: Neural Networks
