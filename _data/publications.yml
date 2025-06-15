@@ -1,7 +1,7 @@
 main:
 
   - title: End-to-End Abnormal Subgraph Detection via Subgraph-Level Contrastive Learning
-    authors: Peng Zhen, Wang Yunfan, Lin Qika, Shi Bin, Chen Chen, Dong Bo, Shen Chao
+    authors: Zhen Peng, Yunfan Wang, Qika Lin, Bin Shi, Chen Chen, Bo Dong, Chao Shen
     conference_short: TNNLS
     conference: IEEE Transactions on Neural Networks and Learning Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025822
