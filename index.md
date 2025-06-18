@@ -24,7 +24,9 @@ Before joining the University of Virginia, I earned a __Bachelor of Engineering_
 
 ## Education
 
-* University of Virginia, Ph.D. in Computer Science, 09/2024 – Present
-* Xi’an Jiaotong University, M.E. in Computer Science and Technology, 09/2021 – 06/2024
-* Xi’an Jiaotong University, B.E. in Computer Science and Technology, B.Econ. in Economics (Second Degree), 09/2017 – 06/2021
+
+- **University of Virginia**, Ph.D. in Computer Science, 09/2024 – Present
+- **Xi’an Jiaotong University**, M.E. in Computer Science and Technology, 09/2021 – 06/2024
+- **Xi’an Jiaotong University**, B.E. in Computer Science and Technology, 09/2017 – 06/2021  
+  &nbsp;&nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp;&nbsp;- B.Econ. in Economics (Second Degree) 09/2019 – 06/2021 
 
