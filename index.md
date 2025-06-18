@@ -43,6 +43,6 @@ Before joining the University of Virginia, I earned a __Bachelor of Engineering_
   <tr>
     <td></td>
     <td>B.Econ. in Economics (Second Degree)</td>
-    <td>09/2019 – 06/2021</td>
+    <td>02/2019 – 06/2021</td>
   </tr>
 </table>
