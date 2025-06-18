@@ -26,17 +26,17 @@ Before joining the University of Virginia, I earned a __Bachelor of Engineering_
 
 <table>
   <tr>
-    <td><strong>University of Virginia</strong></td>
+    <td><strong>* University of Virginia</strong></td>
     <td>Ph.D. in Computer Science</td>
     <td>09/2024 – Present</td>
   </tr>
   <tr>
-    <td><strong>Xi’an Jiaotong University</strong></td>
+    <td><strong>* Xi’an Jiaotong University</strong></td>
     <td>M.E. in Computer Science and Technology</td>
     <td>09/2021 – 06/2024</td>
   </tr>
   <tr>
-    <td><strong>Xi’an Jiaotong University</strong></td>
+    <td><strong>* Xi’an Jiaotong University</strong></td>
     <td>B.E. in Computer Science and Technology</td>
     <td>09/2017 – 06/2021</td>
   </tr>
