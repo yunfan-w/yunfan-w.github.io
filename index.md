@@ -22,4 +22,23 @@ Before joining the University of Virginia, I earned a __Bachelor of Engineering_
 
 {% include_relative _includes/publications.md %}
 
+## Education
 
+**University of Virginia, USA**  
+*Ph.D. in School of Computer Science* — Sep 2024 – Present  
+Advised by Prof. Yue Cheng, Associate Professor of Data Science and Computer Science  
+
+
+**Xi’an Jiaotong University, China**  
+*Master of Engineering in Computer Science and Technology* — Sep 2021 – Jun 2024  
+GPA: 3.57 / 4.0  
+Advised by Prof. Qinghua Zheng, Academician of the Chinese Academy of Engineering  
+Research Interests: Data Mining, Machine Learning, Graph Anomaly Detection
+
+**Xi’an Jiaotong University, China**  
+*Bachelor of Engineering in Computer Science and Technology (Major)* — Sep 2017 – Jun 2021  
+GPA: 3.94 / 4.3, Rank: 6 / 150  
+Thesis: Detection Method for Tax Purchase and Sales Deviation Based on Anomaly Detection
+
+*Bachelor of Economics in Economics (Minor, Second Degree)*  
+Thesis: Research on the Impact of Informatization on Economic Growth
