@@ -6,7 +6,7 @@ main:
     conference: IEEE Transactions on Neural Networks and Learning Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025822
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: _data/tnnls25subgraph.txt
+    bibtex: ./_data/tnnls25subgraph.txt
     image: ./assets/img/tnnls25subgraph.jpg
 
   - title: "When bipartite graph learning meets anomaly detection in attributed networks: Understand abnormalities from each attribute"
@@ -16,6 +16,6 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: _data/nn24nodead.txt
+    bibtex: ./_data/nn24nodead.txt
     # notes: Oral Presentation
     image: ./assets/img/nn24nodead.jpg
