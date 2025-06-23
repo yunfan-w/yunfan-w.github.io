@@ -23,6 +23,6 @@ main:
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0893608025000735
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:JtnkWeMG0ggJ:scholar.google.com/&output=citation&scisdr=CgLFer8KEPaj4-XFtlc:AAZF9b8AAAAAaFjDrleythn92L53492X5lXH_TA&scisig=AAZF9b8AAAAAaFjDrgZFBt1L5O0qcQ6rLvidaB8&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ./_data/nn24nodead.html
     # notes: Oral Presentation
     image: ./assets/img/nn24nodead.jpg
