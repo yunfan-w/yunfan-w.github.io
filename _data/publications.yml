@@ -6,7 +6,13 @@ main:
     conference: IEEE Transactions on Neural Networks and Learning Systems
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025822
     # code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:78yQORqqkPQJ:scholar.google.com/&output=citation&scisdr=CgLFer8KEPaj4-XFzFE:AAZF9b8AAAAAaFjD1FGKksXSYcPLutdvSfcapcw&scisig=AAZF9b8AAAAAaFjD1NGZyW7Fg_KCSVcoLoRXncY&scisf=4&ct=citation&cd=-1&hl=en
+    bibtex: ”@article{peng2025end,
+  title={End-to-End Abnormal Subgraph Detection via Subgraph-Level Contrastive Learning},
+  author={Peng, Zhen and Wang, Yunfan and Lin, Qika and Shi, Bin and Chen, Chen and Dong, Bo and Shen, Chao},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2025},
+  publisher={IEEE}
+}“
     image: ./assets/img/tnnls25subgraph.jpg
 
   - title: "When bipartite graph learning meets anomaly detection in attributed networks: Understand abnormalities from each attribute"
