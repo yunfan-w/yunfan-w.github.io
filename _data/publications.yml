@@ -29,10 +29,10 @@ main:
     image: ./assets/img/nn24nodead.jpg
     
 - title: "Wastewater-based Epidemiology for COVID-19 Surveillance and Beyond: A Survey"
-    authors: Chen Chen, Yunfan Wang, Gursharn Kaur, Aniruddha Adiga, Baltazar Espinoza, Srinivasan Venkatramanan, Andrew Warren et al
+    authors: Chen Chen, Yunfan Wang, Gursharn Kaur, Aniruddha Adiga et al
     conference_short: Epidemics
     conference: Epidemics
-    pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC10984000/pdf/nihpp-2403.15291v2.pdf
+    pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10984000/pdf/nihpp-2403.15291v2.pdf"
     # bibtex: ./_data/nn24nodead.html
     # notes: Oral Presentation
     image: ./assets/img/wastewater.jpg
