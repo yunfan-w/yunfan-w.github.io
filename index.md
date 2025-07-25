@@ -4,15 +4,15 @@ layout: homepage
 
 ## About Me
 
-Hello! I'm Yunfan Wang, a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/department/computer-science) at the [University of Virginia](https://www.virginia.edu/), starting in Fall 2024. 
+Hello! I'm Yunfan Wang, a Ph.D. student in the [Department of Computer Science](https://engineering.virginia.edu/department/computer-science) at the [University of Virginia](https://www.virginia.edu/), starting in Fall 2024. My research interests include Machine Learning, Large Language Models, and Graph Mining, with experience in building practical tools and scalable systems to support them.
 
 Before joining the University of Virginia, I earned a __Bachelor of Engineering__ in Computer Science and Technology and a __Bachelor of Economics__ in Economics from [Xi’an Jiaotong University](https://en.xjtu.edu.cn/) in 2021. I completed my __Master of Engineering__ in Computer Science and Technology at the same university in 2024, under the guidance of Professor [Qinghua Zheng](https://gr.xjtu.edu.cn/web/qhzheng).
 
 ## Research Interests
 
-- **Machine Learning Systems:** Designing efficient and scalable infrastructure for training and deploying machine learning models.
-- **Large Language Models:** Building robust and reliable systems for serving and verifying LLM outputs.
-- **Graph Data Mining:** Exploring techniques for anomaly detection, representation learning, and graph construction.
+- Machine Learning: Algorithms and representations for graphs and language
+- Large Language Models: Robustness, interpretability, and application of LLMs
+- Scalable ML Systems: Practical infrastructure for training, serving, and validating ML modelsction.
 
 ## News
 
