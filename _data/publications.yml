@@ -28,7 +28,7 @@ main:
     # notes: Oral Presentation
     image: ./assets/img/nn24nodead.jpg
     
-- title: "Wastewater-based Epidemiology for COVID-19 Surveillance and Beyond: A Survey"
+  - title: "Wastewater-based Epidemiology for COVID-19 Surveillance and Beyond: A Survey"
     authors: Chen Chen, Yunfan Wang, Gursharn Kaur, Aniruddha Adiga et al
     conference_short: Epidemics
     conference: Epidemics
