@@ -1,7 +1,0 @@
-@article{peng2025end,
-  title={End-to-End Abnormal Subgraph Detection via Subgraph-Level Contrastive Learning},
-  author={Peng, Zhen and Wang, Yunfan and Lin, Qika and Shi, Bin and Chen, Chen and Dong, Bo and Shen, Chao},
-  journal={IEEE Transactions on Neural Networks and Learning Systems},
-  year={2025},
-  publisher={IEEE}
-}
