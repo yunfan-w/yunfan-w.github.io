@@ -27,3 +27,14 @@ main:
     # bibtex: ./_data/nn24nodead.html
     # notes: Oral Presentation
     image: ./assets/img/nn24nodead.jpg
+    
+- title: "Wastewater-based Epidemiology for COVID-19 Surveillance and Beyond: A Survey"
+    authors: Chen Chen, Yunfan Wang, Gursharn Kaur, Aniruddha Adiga, Baltazar Espinoza, Srinivasan Venkatramanan, Andrew Warren et al
+    conference_short: Epidemics
+    conference: Epidemics
+    pdf: https://pdf.sciencedirectassets.com/277421/1-s2.0-S1755436524X00043/1-s2.0-S1755436524000549/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECYaCXVzLWVhc3QtMSJIMEYCIQDuz84YJO5K1KEv8FrojblomriK6l8OeFhkmG6ZDAai9gIhAJuWP4fndynxPwtviQffdGto%2BP92%2BqDvcmB2pqbIl%2BihKrMFCE8QBRoMMDU5MDAzNTQ2ODY1IgxWHP2YrlOsDXnzgmgqkAXrSeW2m%2BV0sZTa5xy6BYdgexAgvOA3v6FS21XlYXSS9dtSwJisievtXBeFZX%2FHHxgDBrZ7BJpG4DE1uCOUZ37DeCWrfR81nznp3gCg9h26Mr4q%2Fuz8%2FA0L4kHVWhDqSOwQKRErlKVtqDMmyP8gZCRteVCHQDl1XgGOEEfa%2BmBYDxDbrw9rY3biTphRvo6qAJapTF2gDpi8%2F7gK%2FjLv1KHWdZaxymWh0bssYNTT%2Fb%2FmASNalnfptyaS81O0oHiCfQ6Shq4dXAhOfgLDq719J4ILqEAQ2S6qiuOA7kRJVOvswaPvMTjXgrp57fF5ZcIXbcRFVg2af5DoI8rndSVQnAeMyR3G96LKy2LdH0PO5lxkFyOHmFyofWUh6kj1YRkNE%2B%2FL4paIB%2B07%2BoSSeUNgGF6vv4UBF0d51FMvbYudUY%2BrReTnvxe5Qh6vKGVACQGn37NsulKqIwn91GaH%2FhLmrmaTZHW2oJcz19OLL9b3AZGzdx3n2tYND0hl0%2FWVLATtvVTtnjvurQSldzX6QZ6aG0dy6xqy9Da5Iv6vCMaWDFjgCX1NgFWHeNBFdQf1Qe%2FHdGVpb59LwEH8Lfj5%2Bfw8eJoWRohyZEL8Bj1cvLVPj%2FweYK10xTAWUjQLC3ImbWgHvw9TcJ36NugRudG9Y9Or%2FWBEgwpo50%2BYWm3ATpAhQXSTl2dMSumiF%2F1SvzUsmjkunFxCvKA498QZpdwrI0pJOERDcfYSb6xUeCsxG1DlLnXDwQWgyoDK4ML%2BAE4WBL4J8%2Fv5y2gXx1XQvCzCwMxLhvmaOyb3nvtUczq%2F3rwn0JApcRGVyskww6%2Fqe5TwRWPiBUfs92I2fKpaPXBAGtBk%2BjHADeEeIhJPfzRNpVnDuWXT%2BDD164%2FEBjqwAaELljEcsaY5L4KP0lm76B1KuYpOR%2FOrk0jJwffqnKLfbNh%2F4QI%2Bny3RDfBEvgz2ewH%2B9R4UcWjcG8kZ4idDzqJEdS3vb9UGOEj%2BXfNqiuuNnyLnRd%2BQxM2g4qlgZXM%2BOUuRi%2BRop85aoEIY%2F2X%2Fg9JJSITMeAjrDJds7E8oRcxOMZVDgtutT7FLuWkj7aovd0kzuYOWqyMWJWo2Qlyl0qaAEjfE0qH1XbID6rO9qxd3&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250725T223600Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY67EFXDB2%2F20250725%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a5d0a36c1cd27469b6426cc57b4a5c5802e33a718513ef67cad0c0bacd696026&hash=d51c7923c0fa26c3ea8759e99d3097b8f269f76ab7e8925618358797377310e0&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1755436524000549&tid=spdf-af5eb08f-243e-41f0-b54c-dceac599e0cd&sid=629a38c187a1d74b278a4d33a069e1bb72f6gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=10145952530955555d57&rr=964f22340829e5bc&cc=us
+    # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: ./_data/nn24nodead.html
+    # notes: Oral Presentation
+    image: ./assets/img/wastewater.jpg
