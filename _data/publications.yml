@@ -3,7 +3,7 @@ main:
     authors: Zhen Peng, Yunqi Xue Yunfan Wang, Qika Lin, Chao Shen
     conference_short: TNSE
     conference: IEEE Transactions on Network Science and Engineering
-    # pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11025822
+    pdf: https://ieeexplore.ieee.org/abstract/document/11098617
     # code: https://github.com/MrGiovanni/ContinualLearning
     # bibtex: 
     image: ./assets/img/tnse25weekad.jpg
