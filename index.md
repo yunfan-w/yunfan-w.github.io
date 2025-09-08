@@ -48,6 +48,7 @@ My research interests lie broadly in Machine Learning and its applications, incl
   </tr>
 </table>
 
-![Profile views](https://komarev.com/ghpvc/?username=jeffrey-yf-wang&color=blue)
 
-<a href="https://info.flagcounter.com/Jvx2"><img src="https://s01.flagcounter.com/map/Jvx2/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sO9BYrE1taJDN1bmsgXJGadJX3yG6o0N05SmC5mNqK8&cl=ffffff&w=a"></script><img width="1172" height="184" alt="image" src="https://github.com/user-attachments/assets/6728f10b-8f63-4509-b034-36e35cef4ef1" />
+
+![Profile views](https://komarev.com/ghpvc/?username=jeffrey-yf-wang&color=blue)
