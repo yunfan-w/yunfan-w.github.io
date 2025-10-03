@@ -48,7 +48,9 @@ My research interests lie broadly in Machine Learning and its applications, incl
   </tr>
 </table>
 
-<a href="https://clustrmaps.com/site/1c7vi"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=G6ASk2CC2JiiQnD7zcCSRFTB11pnQIoMTiHY7e6Xv9c&cl=ffffff" /></a>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=jeffrey-yf-wang&color=blue)
+<a href="https://clustrmaps.com/site/1c83m"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=vEMQnXPtMEGThxGPLizQ3fQhfKsxBEAvSQc_SVTvV3I&cl=ffffff" /></a>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=yunfan-w&color=yellow)
