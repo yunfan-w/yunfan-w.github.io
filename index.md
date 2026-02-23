@@ -16,7 +16,7 @@ My research interests lie broadly in Machine Learning and its applications, incl
 - Interpretable and Robust ML: Making machine learning more understandable, reliable, and aligned with human expectations
 
 ## News
-- **[Feb. 2026]** (Numerical stability analysis of SciPy Jensen–Shannon distance)[https://github.com/yunfan-w/scipy-jensenshannon-note]
+- **[Feb. 2026]** [Numerical stability analysis of SciPy Jensen–Shannon distance](https://github.com/yunfan-w/scipy-jensenshannon-note)
 - **[Jun. 2025]** I received a travel grant to attend OSDI 2025! Grateful for the generous support.
 - **[Aug. 2024]** Started my Ph.D. journey at the University of Virginia.
 
